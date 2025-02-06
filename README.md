@@ -41,5 +41,5 @@ Script for detection LLMNR, mDNS poisoning:
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <p><em>Always open to new connections and collaborations!</em></p>
+  <p><em>Always open to new connections!</em></p>
 </div>
