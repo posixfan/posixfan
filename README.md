@@ -17,9 +17,13 @@
 ### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Scapy](https://img.shields.io/badge/-Scapy-8A2BE2?logo=scapy&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)
 
 ---
 
@@ -29,6 +33,11 @@
 Script for detection LLMNR, mDNS poisoning:
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/Responder-Honeypot/blob/main/responder_honeypot.py)
+
+#### [arp_scanner](https://github.com/posixfan/arp_scanner)
+Simple and minimalistic ARP scan tool:
+- Technologies: Python, Scapy.
+- [Code](https://github.com/posixfan/arp_scanner)
 
 ---
 
