@@ -37,7 +37,7 @@ Script for detection LLMNR, mDNS poisoning:
 #### [arp_scanner](https://github.com/posixfan/arp_scanner)
 Simple and minimalistic ARP scan tool:
 - Technologies: Python, Scapy.
-- [Code](https://github.com/posixfan/arp_scanner)
+- [Code](https://github.com/posixfan/arp_scanner/blob/main/arp_scanner.py)
 
 ---
 
