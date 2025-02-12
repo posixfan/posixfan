@@ -35,7 +35,7 @@ Script for detection LLMNR, mDNS poisoning:
 - [Code](https://github.com/posixfan/Responder-Honeypot/blob/main/responder_honeypot.py)
 
 #### [arp_scanner](https://github.com/posixfan/arp_scanner)
-Simple and minimalistic ARP scan tool:
+This Python script performs an ARP scan on a specified IPv4 network range to discover live hosts, retrieves their MAC addresses, and identifies the manufacturers of the network interfaces:
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/arp_scanner/blob/main/arp_scanner.py)
 
