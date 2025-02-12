@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmplbTlsaWZnZzJiM3BwdnIxMHR6cDc5YnRiMnU0a2J5MzRydW0yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="200px"/>
   <h1>Hi, I'm Andrew!</h1>
   <p>Welcome to my GitHub profile!</p> 
-  <p>I work as an information security engineer. I will post my own developments here, which I use in my work.</p>
+  <p>I work as a cybersecurity engineer. I will post my own developments here, which I use in my work.</p>
 </div>
 
 ---
