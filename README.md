@@ -30,7 +30,7 @@
 ### 🚀 My Projects
 
 #### [Responder-Honeypot](https://github.com/posixfan/Responder-Honeypot)
-Script for detection LLMNR, mDNS poisoning:
+A Python-based honeypot designed to detect and log LLMNR (Link-Local Multicast Name Resolution) and mDNS (Multicast DNS) poisoning attacks:
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/Responder-Honeypot/blob/main/responder_honeypot.py)
 
