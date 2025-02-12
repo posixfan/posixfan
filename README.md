@@ -44,6 +44,10 @@ ARP Keeper is a Python tool that monitors your local network for new devices, tr
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/arp-keeper/blob/main/arp-keeper.py)
 
+#### [pgen](https://github.com/posixfan/pgen)
+This is a simple Python script that generates secure passwords conforming to the NIST 800-63B standard.
+- Technologies: Python
+- [Code](https://github.com/posixfan/pgen/blob/main/pgen.py)
 ---
 
 ### 📫 Contact Me
