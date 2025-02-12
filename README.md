@@ -40,7 +40,7 @@ Simple and minimalistic ARP scan tool:
 - [Code](https://github.com/posixfan/arp_scanner/blob/main/arp_scanner.py)
 
 #### [arp-keeper](https://github.com/posixfan/arp-keeper)
-Network scanning tool that can help you identify unknown devices on your network.
+ARP Keeper is a Python tool that monitors your local network for new devices, tracks them in a CSV database, and optionally sends Telegram notifications when a new device is detected.
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/arp-keeper/blob/main/arp-keeper.py)
 
