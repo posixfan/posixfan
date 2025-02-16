@@ -30,7 +30,7 @@ A simple TCP honeypot designed to detect and log port scanning activities. This 
 - [Code](https://github.com/posixfan/portscan-honeypot/blob/main/portscan-honeypot.py)
 
 #### [Responder-Honeypot](https://github.com/posixfan/Responder-Honeypot)
-A Python-based honeypot designed to detect and log LLMNR (Link-Local Multicast Name Resolution) and mDNS (Multicast DNS) poisoning attacks:
+A Python-based honeypot designed to detect and log LLMNR (Link-Local Multicast Name Resolution) and mDNS (Multicast DNS) poisoning attacks. This tool sends out LLMNR and mDNS queries and monitors for malicious responses, alerting you when an attack is detected. It can also send notifications via email or Telegram and log events to a file.:
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/Responder-Honeypot/blob/main/responder_honeypot.py)
 
