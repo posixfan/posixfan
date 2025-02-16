@@ -40,7 +40,7 @@ ARP Keeper is a Python tool that monitors your local network for new devices, tr
 - [Code](https://github.com/posixfan/arp-keeper/blob/main/arp-keeper.py)
 
 #### [arp_scanner](https://github.com/posixfan/arp_scanner)
-This Python script performs an ARP scan on a specified IPv4 network range to discover live hosts, retrieves their MAC addresses, and identifies the manufacturers of the network interfaces:
+This is a simple ARP (Address Resolution Protocol) scanner written in Python 3. The tool scans a given IPv4 network range and identifies live hosts by their ARP responses. It also retrieves the MAC address and manufacturer information for each discovered device.
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/arp_scanner/blob/main/arp_scanner.py)
 
