@@ -24,20 +24,25 @@
 
 ### 🚀 My Projects
 
+#### [Portscan-Honeypot](https://github.com/posixfan/portscan-honeypot)
+A simple TCP honeypot designed to detect and log port scanning activities. This honeypot listens on a specified network interface, captures TCP SYN packets, and identifies potential port scanning attempts. It can send email and Telegram notifications when suspicious activity is detected.
+- Technologies: Python, Scapy.
+- [Code](https://github.com/posixfan/portscan-honeypot/blob/main/portscan-honeypot.py)
+
 #### [Responder-Honeypot](https://github.com/posixfan/Responder-Honeypot)
 A Python-based honeypot designed to detect and log LLMNR (Link-Local Multicast Name Resolution) and mDNS (Multicast DNS) poisoning attacks:
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/Responder-Honeypot/blob/main/responder_honeypot.py)
 
-#### [arp_scanner](https://github.com/posixfan/arp_scanner)
-This Python script performs an ARP scan on a specified IPv4 network range to discover live hosts, retrieves their MAC addresses, and identifies the manufacturers of the network interfaces:
-- Technologies: Python, Scapy.
-- [Code](https://github.com/posixfan/arp_scanner/blob/main/arp_scanner.py)
-
 #### [arp-keeper](https://github.com/posixfan/arp-keeper)
 ARP Keeper is a Python tool that monitors your local network for new devices, tracks them in a CSV database, and optionally sends Telegram notifications when a new device is detected.
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/arp-keeper/blob/main/arp-keeper.py)
+
+#### [arp_scanner](https://github.com/posixfan/arp_scanner)
+This Python script performs an ARP scan on a specified IPv4 network range to discover live hosts, retrieves their MAC addresses, and identifies the manufacturers of the network interfaces:
+- Technologies: Python, Scapy.
+- [Code](https://github.com/posixfan/arp_scanner/blob/main/arp_scanner.py)
 
 #### [pgen](https://github.com/posixfan/pgen)
 This is a simple Python script that generates secure passwords conforming to the NIST 800-63B standard.
