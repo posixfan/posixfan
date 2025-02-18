@@ -25,7 +25,7 @@
 ### 🚀 My Projects
 
 #### [Portscan-Honeypot](https://github.com/posixfan/portscan-honeypot)
-A simple TCP honeypot designed to detect and log port scanning activities. This honeypot listens on a specified network interface, captures TCP SYN packets, and identifies potential port scanning attempts. It can send email and Telegram notifications when suspicious activity is detected.
+This script is a simple TCP/UDP port scanner honeypot that detects port scanning activity on a specified network interface. It can send notifications about detected scans via email or Telegram.
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/portscan-honeypot/blob/main/portscan-honeypot.py)
 
