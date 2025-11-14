@@ -44,10 +44,10 @@ This is a simple ARP (Address Resolution Protocol) scanner written in Python 3. 
 - Technologies: Python, Scapy.
 - [Code](https://github.com/posixfan/arp_scanner/blob/main/arp_scanner.py)
 
-#### [pgen](https://github.com/posixfan/pgen)
-This is a simple Python script that generates secure passwords conforming to the NIST 800-63B standard.
-- Technologies: Python
-- [Code](https://github.com/posixfan/pgen/blob/main/pgen.py)
+#### [pgen](https://github.com/posixfan/passgen)
+Console-based Cryptographic Password Generator.
+- Technologies: Go
+- [Code](https://github.com/posixfan/passgen/blob/main/pgen.go)
 ---
 
 ### 📫 Contact Me
