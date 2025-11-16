@@ -45,7 +45,7 @@ This is a simple ARP (Address Resolution Protocol) scanner written in Python 3. 
 - [Code](https://github.com/posixfan/arp_scanner/blob/main/arp_scanner.py)
 
 #### [pgen](https://github.com/posixfan/passgen)
-Console-based Cryptographic Password Generator.
+A simple and secure console-based password generator written in Go. It uses cryptographically strong randomness (crypto/rand) and supports flexible command‑line options.
 - Technologies: Go
 - [Code](https://github.com/posixfan/passgen/blob/main/pgen.go)
 ---
